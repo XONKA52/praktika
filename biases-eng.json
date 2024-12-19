@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "paid": false,
+    "title": "Common Source Bias",
+    "engTitle": "common source bias",
+    "category": "Anchoring",
+    "iconName": "arrow.2.circlepath",
+    "shortDescription": "A cognitive bias in which people overestimate the connection between events if they come from the same source.",
+    "fullDescription": "Common source bias occurs when people begin to perceive a connection between events or facts simply because they come from the same source, even though these events might not actually be related. This bias often manifests in people's tendency to ignore the independence of data and to seek causal relationships where there are none. For example, a person might believe that two pieces of information coming from the same source necessarily confirm each other, even though it may just be a coincidence.\n\nThis cognitive bias is especially noticeable when information comes from the same channel, which can create an illusion of interdependence of data. Such thinking leads to false conclusions and can distort the perception of reality, especially in situations that require objective analysis of information.\n\nIn the context of information noise and media consumption, common source bias becomes stronger, as people tend to trust familiar or authoritative information sources without verifying the actual correlation of events. To avoid this bias, it's important to separate independent events and analyze data based on its own value rather than relying on a common source.",
+    "advices": [
+      "Separate independent events and evaluate them independently, without relying on a common source.",
+      "Analyze information objectively, verifying the accuracy of data from various sources.",
+      "Be cautious with information that comes from the same source, even if it appears reliable."
+    ],
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Common_source_bias",
+    "examples": [
+      "Emma believes that if two news stories come from the same source, they must be related.",
+      "John thinks that if two companies have the same owner, their success or failure must be interconnected.",
+      "Michael assumes that if two articles refer to the same study, they confirm each other."
+    ],
+    "questions": [
+      {
+        "id": 17634825,
+        "text": "Michael is sure that two products released by the same company are equally successful. Which cognitive bias does this illustrate?",
+        "answerExplanation": "Common Source Bias: Michael believes that the two products are linked simply because they come from the same source."
+      },
+      {
+        "id": 83719476,
+        "text": "Anna thinks that two articles written by the same author must validate each other. Which cognitive bias does this describe?",
+        "answerExplanation": "Common Source Bias: Anna mistakenly assumes that the articles validate each other because of the shared author."
+      },
+      {
+        "id": 98374618,
+        "text": "Alex believes that if two of his friends say the same thing, it must be true because they communicate with each other. Which cognitive bias is at play here?",
+        "answerExplanation": "Common Source Bias: Alex assumes that his friends' opinions are connected just because they interact with each other."
+      },
+      {
+        "id": 27483659,
+        "text": "Olivia claims that if two products are recommended by the same blogger, they must be equally good. Which cognitive bias is demonstrated here?",
+        "answerExplanation": "Common Source Bias: Olivia overestimates the quality of the products based on the fact that they were recommended by the same blogger."
+      },
+      {
+        "id": 52638941,
+        "text": "Paul is convinced that if two negative comments come from the same group of people, they must be related. Which cognitive bias does this behavior describe?",
+        "answerExplanation": "Common Source Bias: Paul sees a link between the comments solely based on their shared source."
+      },
+      {
+        "id": 73982146,
+        "text": "Nicholas believes that if two news stories come from the same media outlet, they must be related. Which cognitive bias does his judgment reflect?",
+        "answerExplanation": "Common Source Bias: Nicholas mistakenly thinks that the two news stories are related because they came from the same source."
+      },
+      {
+        "id": 84563279,
+        "text": "Irene thinks that two studies that refer to the same article must be related. Which cognitive bias does her thinking illustrate?",
+        "answerExplanation": "Common Source Bias: Irene believes the studies are connected because of the shared reference."
+      },
+      {
+        "id": 97612354,
+        "text": "Eugene believes that two opinions given by the same expert necessarily confirm each other. Which cognitive bias is demonstrated here?",
+        "answerExplanation": "Common Source Bias: Eugene sees a link between the opinions based only on the common author."
+      },
+      {
+        "id": 39528761,
+        "text": "Alexandra believes that two companies operating under the same brand must have linked success. Which cognitive bias is being illustrated?",
+        "answerExplanation": "Common Source Bias: Alexandra thinks the companies are linked simply because they belong to the same brand."
+      },
+      {
+        "id": 26394718,
+        "text": "Dmitry thinks that if two projects come from the same team, they must be equally successful. Which cognitive bias does this describe?",
+        "answerExplanation": "Common Source Bias: Dmitry links the success of the projects solely based on their common origin."
+      },
+      {
+        "id": 45283761,
+        "text": "Oleg is sure that if two products with similar reviews are sold by the same seller, they must be linked in quality. Which cognitive bias is being shown here?",
+        "answerExplanation": "Common Source Bias: Oleg wrongly links the quality of the products based solely on the common seller."
+      },
+      {
+        "id": 73248591,
+        "text": "Tatiana believes that two partnership projects carried out by the same company are equally successful. Which cognitive bias is involved here?",
+        "answerExplanation": "Common Source Bias: Tatiana connects the success of the projects based solely on their common source."
+      },
+      {
+        "id": 49128367,
+        "text": "Michael thinks that two identical reports created by the same team confirm each other. Which cognitive bias does this demonstrate?",
+        "answerExplanation": "Common Source Bias: Michael sees confirmation between reports based solely on their common source."
+      },
+      {
+        "id": 68293457,
+        "text": "Anastasia believes that if two ideas come from the same scientist, they must confirm each other. Which cognitive bias does this illustrate?",
+        "answerExplanation": "Common Source Bias: Anastasia mistakenly links the ideas based on the common author."
+      },
+      {
+        "id": 98237461,
+        "text": "Oksana claims that if two products are recommended by the same expert, they must be linked. Which cognitive bias is shown here?",
+        "answerExplanation": "Common Source Bias: Oksana connects the products solely based on the shared recommending expert."
+      },
+      {
+        "id": 58472319,
+        "text": "Valeria is convinced that if two partners give similar reports, they must be related. Which cognitive bias does this demonstrate?",
+        "answerExplanation": "Common Source Bias: Valeria sees a link in the reports due to the common source."
+      },
+      {
+        "id": 67834926,
+        "text": "Elena thinks that if two authors refer to the same theory, their work must be interconnected. Which cognitive bias is being illustrated?",
+        "answerExplanation": "Common Source Bias: Elena wrongly believes the authors' work is connected because they reference the same theory."
+      },
+      {
+        "id": 78943561,
+        "text": "George believes that two articles from the same publisher must be true. Which cognitive bias is affecting his judgment?",
+        "answerExplanation": "Common Source Bias: George assumes that both articles are accurate because they come from the same publisher."
+      },
+      {
+        "id": 89103476,
+        "text": "Samantha thinks that two recommendations by the same friend must be equally trustworthy. Which cognitive bias does this describe?",
+        "answerExplanation": "Common Source Bias: Samantha assumes both recommendations are trustworthy simply because they come from the same person."
+      },
+      {
+        "id": 91027365,
+        "text": "Victor believes that if two pieces of advice come from the same professional, they must be valid. Which cognitive bias is being demonstrated?",
+        "answerExplanation": "Common Source Bias: Victor connects the validity of the advice based solely on the common professional source."
+      }
+    ]
+  }
+  
+
+      
+]
